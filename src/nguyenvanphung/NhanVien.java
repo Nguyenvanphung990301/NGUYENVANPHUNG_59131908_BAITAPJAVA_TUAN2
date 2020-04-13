@@ -26,7 +26,6 @@ public class NhanVien {
         this.Salary = Salary;
         this.workHours = workHours;
     }
-
    
 
     public String getName() {
